@@ -529,7 +529,7 @@ function Footer() {
       </div>
       <div className="container footer-bottom">
         <span>Copyright 1996-2026 CTSI-Global. All rights reserved.</span>
-        <span>Confirm exact legal footer before launch. Testing only.</span>
+        <span>Confirm exact legal footer before launch. Testing Renamed Logos.</span>
       </div>
     </footer>
   )
